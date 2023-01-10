@@ -1,9 +1,0 @@
-{
-    "editor.formatOnSave": false,
-    "workbench.colorTheme": "Community Material Theme Darker High Contrast",
-    "workbench.preferredDarkColorTheme": "Community Material Theme Darker High Contrast",
-    "workbench.preferredHighContrastColorTheme": "Community Material Theme Darker High Contrast",
-    "workbench.preferredLightColorTheme": "Community Material Theme Darker High Contrast",
-    "workbench.iconTheme": "eq-material-theme-icons-darker",
-    "editor.wordWrap": "on"
-}
